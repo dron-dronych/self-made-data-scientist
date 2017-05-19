@@ -11,6 +11,8 @@ Items to be followed in the order provided
 4. Introduction to Combinatorics [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh/home/welcome)
 5. Introduction to Probability [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/probability-theory-basics/home/welcome)
 6. Introduction to Graph Theory [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/teoriya-grafov/home/welcome)
+7. Mathematics for Computer Science [MIT / Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/) or [MIT / Spring 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+8. Differential Equations [Spring 2010](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/syllabus/)
 
 ## Applied part
 1. Acquaintance with Numpy [Numpy Tutorial on Scipy-Lectures](http://www.scipy-lectures.org/intro/numpy/index.html)
