@@ -13,6 +13,10 @@ Items to be followed in the order provided
 6. Introduction to Graph Theory [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/teoriya-grafov/home/welcome)
 7. Mathematics for Computer Science [MIT / Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/) or [MIT / Spring 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 8. Differential Equations [Spring 2010](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/syllabus/)
+9. Introduction to Numerical Analysis [MIT's 18.330](Introduction to Numerical Analysis)
+10. Analysis I [MIT's 18.100B](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/syllabus/)
+11. Analysis II [MIT's 18.101](https://ocw.mit.edu/courses/mathematics/18-101-analysis-ii-fall-2005/)
+12. Introduction to Functional Analysis [MIT's 18.102](https://ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/syllabus/)
 
 ## Applied part
 1. Acquaintance with Numpy [Numpy Tutorial on Scipy-Lectures](http://www.scipy-lectures.org/intro/numpy/index.html)
@@ -21,3 +25,6 @@ Items to be followed in the order provided
 
 ## Computer Science
 This is where I refer to a collection by jwasham's [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+Special courses to take listed separately:
+1. Algorithms: Design and Analysis [Stanford Course](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+2. Machine Learning [Stanford Course by Andrew Ng](http://cs229.stanford.edu/)
