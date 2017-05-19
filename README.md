@@ -13,8 +13,12 @@ Items to be followed in the order provided
 6. Introduction to Graph Theory [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/teoriya-grafov/home/welcome)
 7. Mathematics for Computer Science [MIT / Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/) or [MIT / Spring 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 8. Differential Equations [Spring 2010](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/syllabus/)
+9. Logic
 9. Introduction to Numerical Analysis [MIT's 18.330](https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2004/)
 10. Analytical geometry (determine the resources)
+10. Algebra I [MIT's 18.701](https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/syllabus/)
+11. Algebra II [MIT's 18.702](https://ocw.mit.edu/courses/mathematics/18-702-algebra-ii-spring-2011/index.htm)
+12. Number Theory [MIT's 18.781](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/syllabus/)
 10. Analysis I [MIT's 18.100B](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/syllabus/)
 11. Analysis II [MIT's 18.101](https://ocw.mit.edu/courses/mathematics/18-101-analysis-ii-fall-2005/)
 12. Introduction to Functional Analysis [MIT's 18.102](https://ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/syllabus/)
