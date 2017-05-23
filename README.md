@@ -31,6 +31,6 @@ Items to be followed in the order provided
 ## Computer Science
 This is where I refer to a collection by jwasham's [coding-interview-university](https://github.com/jwasham/coding-interview-university)  
 Special courses to take listed separately:
-1. Introduction to Computational Thinking and CS [MIT's 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm)
+1. Introduction to Computational Thinking and Data Science [MIT's 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm)
 2. Algorithms: Design and Analysis [Stanford Course](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 3. Machine Learning [Stanford Course by Andrew Ng](http://cs229.stanford.edu/)
