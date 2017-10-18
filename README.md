@@ -34,3 +34,7 @@ Special courses to take listed separately:
 1. Introduction to Computational Thinking and Data Science [MIT's 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm)
 2. Algorithms: Design and Analysis [Stanford Course](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 3. Machine Learning [Stanford Course by Andrew Ng](http://cs229.stanford.edu/)
+
+## Other interesting courses
+Some of the courses with the useful material to get a grasp of:
+1. Topics in Mathematics with Applications in Finance (topics include stochastic calculus, stochastic differential equations, time series analysis, and direct applications to finance) [MIT's 18.S096](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm)
