@@ -7,7 +7,7 @@ Unlike most of the resources and guides, this guide is to be very concise with r
 ## Math
 Items to be followed in the order provided
 
-`[x]` 1. Single variable calculus [Course page](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+[x] `1.` Single variable calculus [Course page](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 [x] \2. Multi variable calculus [Course page](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 3. Linear algebra [Course page](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 [x] \4. Introduction to Combinatorics [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh/home/welcome) (to be taken in parallel with multi-variable calculus)
