@@ -5,11 +5,11 @@ Unlike most of the resources and guides, this guide is to be very concise with r
 ## Math
 Items to be followed in the order provided
 
-1. Single variable calculus [Course page](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-2. Multi variable calculus [Course page](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+1. [x] Single variable calculus [Course page](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+2. [x] Multi variable calculus [Course page](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 3. Linear algebra [Course page](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-4. Introduction to Combinatorics [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh/home/welcome) (to be taken in parallel with multi-variable calculus)
-5. Introduction to Probability [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/probability-theory-basics/home/welcome)
+4. [x] Introduction to Combinatorics [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh/home/welcome) (to be taken in parallel with multi-variable calculus)
+5. [x] Introduction to Probability [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/probability-theory-basics/home/welcome)
 6. Introduction to Graph Theory [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/teoriya-grafov/home/welcome)
 7. Mathematics for Computer Science [MIT / Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/) or [MIT / Spring 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 8. Differential Equations [Spring 2010](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/syllabus/)
@@ -24,9 +24,12 @@ Items to be followed in the order provided
 12. Introduction to Functional Analysis [MIT's 18.102](https://ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/syllabus/)
 
 ## Applied part
-1. Acquaintance with Numpy [Numpy Tutorial on Scipy-Lectures](http://www.scipy-lectures.org/intro/numpy/index.html)
-2. Pandas tutorial [Official tutorial](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) 
-3. Matplotlib [Intro to Matplotlib](http://www.scipy-lectures.org/intro/matplotlib/index.html)
+1. [x] Acquaintance with Numpy [Numpy Tutorial on Scipy-Lectures](http://www.scipy-lectures.org/intro/numpy/index.html)
+2. [x] Pandas tutorial [Official tutorial](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) 
+3. [x] Matplotlib [Intro to Matplotlib](http://www.scipy-lectures.org/intro/matplotlib/index.html)
+
+## Machine Learning
+1. [x] Machine Learning Open Course (https://github.com/Yorko/mlcourse.ai)
 
 ## Computer Science
 This is where I refer to a collection by jwasham's [coding-interview-university](https://github.com/jwasham/coding-interview-university)  
