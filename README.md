@@ -34,6 +34,9 @@ Items to be followed in the order provided
 1. :heavy_check_mark: Machine Learning Open Course (https://github.com/Yorko/mlcourse.ai)
 2. CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.github.io/)
 
+## Deep Learning
+1. Deepearning.ai (specialization on Coursera)
+
 ## Computer Science
 This is where I refer to a collection by jwasham's [coding-interview-university](https://github.com/jwasham/coding-interview-university)  
 Special courses to take listed separately:
