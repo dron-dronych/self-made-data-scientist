@@ -34,6 +34,7 @@ Items to be followed in the order provided
 ## Machine Learning
 1. :heavy_check_mark: Machine Learning Open Course (https://github.com/Yorko/mlcourse.ai)
 2. CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.github.io/)
+3. Fast.ai - sequence of 4 practice-oriented courses [Courses page](https://www.fast.ai/)
 
 ## Deep Learning
 1. Deepearning.ai (specialization on Coursera https://www.deeplearning.ai/)
