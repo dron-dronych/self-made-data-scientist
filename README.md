@@ -45,6 +45,7 @@ Special courses to take listed separately:
 1. Introduction to Computational Thinking and Data Science [MIT's 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm)
 2. Algorithms: Design and Analysis [Stanford Course](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 3. Machine Learning [Stanford Course by Andrew Ng](http://cs229.stanford.edu/)
+4. Data Structures and Algorithms Specialization (a sequence of 6 courses; specialization on Coursera https://www.coursera.org/specializations/data-structures-algorithms)
 
 ## Other interesting courses
 Some of the courses with the useful material to get a grasp of:
