@@ -46,6 +46,7 @@ Special courses to take listed separately:
 2. Algorithms: Design and Analysis [Stanford Course](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 3. Machine Learning [Stanford Course by Andrew Ng](http://cs229.stanford.edu/)
 4. Data Structures and Algorithms Specialization (a sequence of 6 courses; specialization on Coursera https://www.coursera.org/specializations/data-structures-algorithms)
+5. Object-Oriented Programming and Design Patterns in Python (https://www.coursera.org/learn/oop-patterns-python/)
 
 ## Other interesting courses
 Some of the courses with the useful material to get a grasp of:
