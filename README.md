@@ -14,7 +14,7 @@ Items to be followed in the order provided
 5. :heavy_check_mark: Introduction to Probability [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/probability-theory-basics/home/welcome)
 6. Probability and Statistics [Course page](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 7. Selected topics from the Probability and Random Variables course [MIT Spring 2015](https://ocw.mit.edu/courses/mathematics/18-440-probability-and-random-variables-spring-2014/index.htm)
-8. Introduction to Stochastic Processes [MIT Sprint 2015](https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/index.htm)
+8. Introduction to Stochastic Processes [MIT Sprint 2015](https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/index.htm) ## TODO find materials on Markov Models
 9. Matrix Methods in Data Analysis, Signal Processing, and Machine Learning [Course by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
 10. Introduction to Graph Theory [Andrey Raygorodskiy on Coursera](https://www.coursera.org/learn/teoriya-grafov/home/welcome)
 11. Mathematics for Computer Science [MIT / Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/) or [MIT / Spring 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
