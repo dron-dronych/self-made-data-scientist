@@ -2,6 +2,8 @@
 After reading tons of literature and forum questions, I've determined a path I need to follow which is pretty much what most of those answers have in common. This plan essentially covers three parts, math, computer science, and practical knowledge (e.g. of tools). Theoretical part is focused on gaining math skills and knowledge in probability, statistics, optimization, and machine learning theory. Practical part, on the other hand, has its focus on programming skills and getting known with the analysis tools. Finally, the computer science part is geared towards obtaining skills that are helpful in working as a practical data scientist, for example, effective implementation of an algorithm.
 Unlike most of the resources and guides, this guide is to be very concise with regards to literature and resources, abundance of which is overwhelming and confusing.
 
+If there is one thing I have learned in the last few years after following this plan is practice, practice, and practice. Practice until you know how to apply theory you have learnt; theory without practice is worthless. Do the finetuning of pretrained models, deep dive into specifics such as NLP, f.e., and see how you can use the most recent research in your predictions; whatever it is - as long as you practice it, you are taking that thought process you need to the next level.
+
 **Completed items marked with** :heavy_check_mark:.
 
 ## Math
