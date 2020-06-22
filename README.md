@@ -52,6 +52,7 @@ Special courses to take listed separately:
 3. Machine Learning [Stanford Course by Andrew Ng](http://cs229.stanford.edu/)
 4. Data Structures and Algorithms Specialization (a sequence of 6 courses; specialization on Coursera https://www.coursera.org/specializations/data-structures-algorithms)
 5. Object-Oriented Programming and Design Patterns in Python (https://www.coursera.org/learn/oop-patterns-python/)
+6. *C++ learning by doing (no unique source - implementing some algorithms along the way) -- experimental path*
 
 ## Other interesting courses
 Some of the courses with the useful material to get a grasp of:
