@@ -44,7 +44,7 @@ Items to be followed in the order provided
 ## Deep Learning
 1. :heavy_check_mark: Deepearning.ai (specialization on Coursera https://www.deeplearning.ai/)
 
-## Computer Science
+## Computer Science and Software Engineering
 This is where I refer to a collection by jwasham's [coding-interview-university](https://github.com/jwasham/coding-interview-university)  
 Special courses to take listed separately:
 1. Introduction to Computational Thinking and Data Science [MIT's 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm)
@@ -53,6 +53,7 @@ Special courses to take listed separately:
 4. Data Structures and Algorithms Specialization (a sequence of 6 courses; specialization on Coursera https://www.coursera.org/specializations/data-structures-algorithms)
 5. Object-Oriented Programming and Design Patterns in Python (https://www.coursera.org/learn/oop-patterns-python/)
 6. *C++ learning by doing (no unique source - implementing some algorithms along the way) -- experimental path*
+7. System design - engineering approach [very cool collection](https://github.com/donnemartin/system-design-primer)
 
 ## Other interesting courses
 Some of the courses with the useful material to get a grasp of:
