@@ -56,6 +56,7 @@ Special courses to take listed separately:
 5. Object-Oriented Programming and Design Patterns in Python (https://www.coursera.org/learn/oop-patterns-python/)
 6. *C++ learning by doing (no unique source - implementing some algorithms along the way) -- experimental path*
 7. System design - engineering approach [very cool collection](https://github.com/donnemartin/system-design-primer)
+8. Learn to work with the [command line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Other interesting courses
 Some of the courses with the useful material to get a grasp of:
