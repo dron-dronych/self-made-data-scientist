@@ -64,3 +64,4 @@ Some of the courses with the useful material to get a grasp of:
 
 ## Useful Resources
 Linear ALgebra and Learning from Data [Book by Gilbert Strang](http://math.mit.edu/~gs/learningfromdata/)
+Good collection of data science resources [awesome-datascience](https://github.com/academic/awesome-datascience)
