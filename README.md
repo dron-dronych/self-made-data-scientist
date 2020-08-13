@@ -8,7 +8,7 @@ You can always learn the tools to help you in your DS journey, but building that
 
 ---
 
-Take time to revise your learning and get away from studying by giving yourself a little break every once in a while. As I recently read in one of the articles on self-development, look back and revamp on the knowledge you have gained, **not where you have come up** short as this is what we're inclined to more naturally.
+Take time to revise your learning and get away from studying by giving yourself a little break every once in a while. As I recently read in one of the articles on self-development, look back and revamp on the knowledge you have gained and <ins>succeeded</ins>, **not where you have come up** short as this is what we're inclined to more naturally.
 
 **Completed items marked with** :heavy_check_mark:.
 
