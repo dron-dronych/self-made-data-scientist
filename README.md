@@ -4,7 +4,11 @@ Unlike most of the resources and guides, this guide is to be very concise with r
 
 If there is one thing I have learned in the last few years after following this plan is practice, practice, and practice. Practice until you know how to apply theory you have learnt; theory without practice is worthless. Do the finetuning of pretrained models, deep dive into specifics such as NLP, f.e., and see how you can use the most recent research in your predictions; whatever it is - as long as you practice it, you are taking that thought process you need to the next level.
 
-You can always learn the tools to help you in your DS journey, but building that thinking process and developing an experimental mindset is what I bet on mostly. You can often find a few tricks here and there, and so instead of continuously learning them, isn't it better to learn how to generate them yourself? 
+You can always learn the tools to help you in your DS journey, but building that thinking process and developing an experimental mindset is what I bet on mostly. You can often find a few tricks here and there, and so instead of continuously learning them, isn't it better to learn how to generate them yourself?
+
+---
+
+Take time to revise your learning and get away from studying by giving yourself a little break every once in a while. As I recently read in one of the articles on self-development, look back and revamp on the knowledge you have gained, **not where you have come up** short as this is what we're inclined to more naturally.
 
 **Completed items marked with** :heavy_check_mark:.
 
