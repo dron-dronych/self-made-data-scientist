@@ -58,7 +58,10 @@ Special courses to take listed separately:
 3. Machine Learning [Stanford Course by Andrew Ng](http://cs229.stanford.edu/)
 4. Data Structures and Algorithms Specialization (a sequence of 6 courses; specialization on Coursera https://www.coursera.org/specializations/data-structures-algorithms)
 5. Object-Oriented Programming and Design Patterns in Python (https://www.coursera.org/learn/oop-patterns-python/)
-6. *C++ learning by doing (no unique source - implementing some algorithms along the way) -- experimental path*
+6. C++ *learning by doing*<br>
+  I have found these sources to be useful especially used in conjunction with each other:
+- [C++ video lectures](https://www.youtube.com/playlist?list=PLT1RFoTVtIAw5rR4izBKH2Z2PtUblVpXT) - very good explanation (in Russian)
+- [C++ lessons](https://ravesli.com/uroki-cpp/) (in Russian)
 7. System design - engineering approach [very cool collection](https://github.com/donnemartin/system-design-primer)
 8. Learn to work with the [command line](https://github.com/jlevy/the-art-of-command-line)
 
