@@ -70,6 +70,6 @@ Some of the courses with the useful material to get a grasp of:
 1. Topics in Mathematics with Applications in Finance (topics include stochastic calculus, stochastic differential equations, time series analysis, and direct applications to finance) [MIT's 18.S096](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm)
 
 ## Useful Resources
-- Linear ALgebra and Learning from Data [Book by Gilbert Strang](http://math.mit.edu/~gs/learningfromdata/)
+- Linear Algebra and Learning from Data [Book by Gilbert Strang](http://math.mit.edu/~gs/learningfromdata/)
 - Good collection of data science resources [awesome-datascience](https://github.com/academic/awesome-datascience)
 - Growing set of Kaggle kernels with emphasis on practice [awesome-kaggle-kernels](https://github.com/alfarias/awesome-kaggle-kernels)
