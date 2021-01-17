@@ -50,6 +50,9 @@ Items to be followed in the order provided
 ## Deep Learning
 1. :heavy_check_mark: Deepearning.ai (specialization on Coursera https://www.deeplearning.ai/)
 
+## Natural Language Processing
+1. Best NLP competitions on Kaggle to learn from: [video](https://www.youtube.com/watch?v=-nH4OSyjwSI) by Abhishek Thakur
+
 ## Computer Science and Software Engineering
 This is where I refer to a collection by jwasham's [coding-interview-university](https://github.com/jwasham/coding-interview-university)  
 Special courses to take listed separately:
