@@ -79,3 +79,4 @@ Some of the courses with the useful material to get a grasp of:
 - Good collection of data science resources [awesome-datascience](https://github.com/academic/awesome-datascience)
 - Growing set of Kaggle kernels with emphasis on practice [awesome-kaggle-kernels](https://github.com/alfarias/awesome-kaggle-kernels)
 - [Vector Derivatives Notes](https://www.cs.huji.ac.il/~csip/tirgul3_derivatives.pdf)
+- [Colah's blog](https://colah.github.io/) on machine learning
