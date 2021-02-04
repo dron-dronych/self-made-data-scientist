@@ -80,3 +80,7 @@ Some of the courses with the useful material to get a grasp of:
 - Growing set of Kaggle kernels with emphasis on practice [awesome-kaggle-kernels](https://github.com/alfarias/awesome-kaggle-kernels)
 - [Vector Derivatives Notes](https://www.cs.huji.ac.il/~csip/tirgul3_derivatives.pdf)
 - [Colah's blog](https://colah.github.io/) on machine learning
+
+## Interview Questions & Brain Teasers
+- [Facebook DS interview Q&A](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions/)
+- [Google interview questions & solutions](https://www.interviewquery.com/blog-google-data-science-interview-questions-and-solutions/)
