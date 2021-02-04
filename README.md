@@ -84,3 +84,4 @@ Some of the courses with the useful material to get a grasp of:
 ## Interview Questions & Brain Teasers
 - [Facebook DS interview Q&A](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions/)
 - [Google interview questions & solutions](https://www.interviewquery.com/blog-google-data-science-interview-questions-and-solutions/)
+- [Google DS interview brain teasers](https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f)
