@@ -63,10 +63,10 @@ Special courses to take listed separately:
 5. Object-Oriented Programming and Design Patterns in Python (https://www.coursera.org/learn/oop-patterns-python/)
 6. C++ *learning by doing*<br>
   I have found these sources to be useful especially used in conjunction with each other:
-- [C++ video lectures](https://www.youtube.com/playlist?list=PLT1RFoTVtIAw5rR4izBKH2Z2PtUblVpXT) - very good explanation (in Russian)
-- [C++ lessons](https://ravesli.com/uroki-cpp/) (in Russian)
+    - [C++ video lectures](https://www.youtube.com/playlist?list=PLT1RFoTVtIAw5rR4izBKH2Z2PtUblVpXT) - very good explanation (in Russian)
+    - [C++ lessons](https://ravesli.com/uroki-cpp/) (in Russian)
 7. Java<br>
-- Cool in-depth coverage of Java Core: [Golovach Courses](https://www.youtube.com/user/KharkovITCourses/playlists?view=50&sort=dd&shelf_id=12) (in Russian)
+    - Cool in-depth coverage of Java Core: [Golovach Courses](https://www.youtube.com/user/KharkovITCourses/playlists?view=50&sort=dd&shelf_id=12) (in Russian)
 8. System design - engineering approach [very cool collection](https://github.com/donnemartin/system-design-primer)
 9. Learn to work with the [command line](https://github.com/jlevy/the-art-of-command-line)
 
