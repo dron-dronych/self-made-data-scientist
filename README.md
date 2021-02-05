@@ -12,6 +12,19 @@ Take time to revise your learning and get away from studying by giving yourself 
 
 **Completed items marked with** :heavy_check_mark:.
 
+## Contents
+----
+
+- [Math](#math)
+- [Applied Part](#applied-part)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Computer Science and Software Engineering](#computer-science-and-software-engineering)
+- [Other Interesting Courses](#other-interesting-courses)
+- [Useful Resources](#useful-resources)
+- [Interview Questions and Brain Teasers](#interview-questions--brain-teasers)
+
 ## Math
 Items to be followed in the order provided
 
