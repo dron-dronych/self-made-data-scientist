@@ -13,7 +13,6 @@ Take time to revise your learning and get away from studying by giving yourself 
 **Completed items marked with** :heavy_check_mark:.
 
 ## Contents
-----
 
 - [Math](#math)
 - [Applied Part](#applied-part)
