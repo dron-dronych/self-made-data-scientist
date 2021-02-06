@@ -48,6 +48,7 @@ Items to be followed in the order provided
 19. Analysis I [MIT's 18.100B](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/syllabus/)
 20. Analysis II [MIT's 18.101](https://ocw.mit.edu/courses/mathematics/18-101-analysis-ii-fall-2005/)
 21. Introduction to Functional Analysis [MIT's 18.102](https://ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/syllabus/)
+22. Convex Optimization [Stanford Course by Stephen Boyd](https://www.edx.org/course/convex-optimization)
 
 ## Applied part
 1. :heavy_check_mark: Acquaintance with Numpy [Numpy Tutorial on Scipy-Lectures](http://www.scipy-lectures.org/intro/numpy/index.html)
