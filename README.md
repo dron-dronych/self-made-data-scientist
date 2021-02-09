@@ -80,6 +80,13 @@ Special courses to take listed separately:
     - [C++ lessons](https://ravesli.com/uroki-cpp/) (in Russian)
 7. Java<br>
     - Cool in-depth coverage of Java Core: [Golovach Courses](https://www.youtube.com/user/KharkovITCourses/playlists?view=50&sort=dd&shelf_id=12) (in Russian)
+    - Effective Java (3rd. ed) - Joshua Bloch
+    - Clean Code - Robert C. Martin
+    - The Clean Coder - Robert C. Martin
+    - Optimizing Java - Benjamin J.Evans, James Gough & Chris Newland
+    - Test-Driven Development - Kent Beck
+    - The Art of Unit Testing - Roy Osherove
+    - Optimizing Java: Practical Techniques for Improving JVM Application Performance - Benjamin J. Evans, Chris Newland, James Gough
 8. System design - engineering approach [very cool collection](https://github.com/donnemartin/system-design-primer)
 9. Learn to work with the [command line](https://github.com/jlevy/the-art-of-command-line)
 
