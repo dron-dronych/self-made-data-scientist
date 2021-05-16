@@ -104,6 +104,9 @@ Some of the courses with the useful material to get a grasp of:
 - [Colah's blog](https://colah.github.io/) on machine learning
 - [Clarification of statistical concepts](https://www.statisticsfromatoz.com/blog) -- in addition, there are stats videos available.
 
+## Books
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie, Tibshirani, Friedman
+
 ## Interview Questions & Brain Teasers
 - [Facebook DS interview Q&A](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions/)
 - [Google interview questions & solutions](https://www.interviewquery.com/blog-google-data-science-interview-questions-and-solutions/)
