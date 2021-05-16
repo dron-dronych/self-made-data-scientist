@@ -22,6 +22,7 @@ Take time to revise your learning and get away from studying by giving yourself 
 - [Computer Science and Software Engineering](#computer-science-and-software-engineering)
 - [Other Interesting Courses](#other-interesting-courses)
 - [Useful Resources](#useful-resources)
+- [Books](#books)
 - [Interview Questions and Brain Teasers](#interview-questions--brain-teasers)
 
 ## Math
