@@ -68,6 +68,7 @@ Items to be followed in the order provided
 
 ## Natural Language Processing
 1. Best NLP competitions on Kaggle to learn from: [video](https://www.youtube.com/watch?v=-nH4OSyjwSI) by Abhishek Thakur
+2. Understanding Unicode and Charsets: [bare minimum](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 ## Computer Science and Software Engineering
 This is where I refer to a collection by jwasham's [coding-interview-university](https://github.com/jwasham/coding-interview-university)  
