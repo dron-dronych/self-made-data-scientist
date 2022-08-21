@@ -91,9 +91,13 @@ Special courses to take listed separately:
     - Test-Driven Development - Kent Beck
     - The Art of Unit Testing - Roy Osherove
     - Optimizing Java: Practical Techniques for Improving JVM Application Performance - Benjamin J. Evans, Chris Newland, James Gough
-8. System design - engineering approach [very cool collection](https://github.com/donnemartin/system-design-primer)
-9. Learn to work with the [command line](https://github.com/jlevy/the-art-of-command-line)
-10. Shell scripting [lessons](https://linuxcommand.org/lc3_writing_shell_scripts.php)
+8. Learn to work with the [command line](https://github.com/jlevy/the-art-of-command-line)
+9. Shell scripting [lessons](https://linuxcommand.org/lc3_writing_shell_scripts.php)
+
+## System Design
+1. System design - engineering approach [very cool collection](https://github.com/donnemartin/system-design-primer)
+2. Real world systems explained by those who build them [Architecturenotes](https://architecturenotes.co/)
+3. Infrastructure explained [blogpost](https://architecturenotes.co/)
 
 ## Other interesting courses
 Some of the courses with the useful material to get a grasp of:
