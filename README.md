@@ -97,7 +97,7 @@ Special courses to take listed separately:
 ## System Design
 1. System design - engineering approach [very cool collection](https://github.com/donnemartin/system-design-primer)
 2. Real world systems explained by those who build them [Architecturenotes](https://architecturenotes.co/)
-3. Infrastructure explained [blogpost](https://architecturenotes.co/)
+3. Infrastructure explained [blogpost](https://iximiuz.com/en/)
 
 ## Other interesting courses
 Some of the courses with the useful material to get a grasp of:
